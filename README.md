@@ -13,12 +13,10 @@
 <br>
 
 <h2 align="center"> My GitHub Stats <h2>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdulrahmanElkashef&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulrahmanElkashef&show_icons=true&locale=en&layout=compact" alt="AbdulrahmanElkashef" /></p>
 
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanElkashe&amp;layout=compact&amp;theme=noctis_minimus" alt="AbdulrahmanElkashef" /></p>
-  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulrahmanElkashef&theme=dark&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdulrahmanElkashef&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulrahmanElkashef&theme=dark&show_icons=true)
  
