@@ -15,6 +15,10 @@
 <h2 align="center"> My GitHub Stats <h2>
  
   <div align-content"">  
+   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulrahmanElkashef&theme=radical )
+   
+   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulrahmanElkashef&radical"alt="AbdulrahmanElkashef"/></p>
 
    
@@ -23,7 +27,6 @@
 
 
    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulrahmanElkashef&theme=radical )
 
   
    
