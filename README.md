@@ -11,7 +11,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulrahmanElkashef&show_icons=true&locale=en&layout=compact" alt="AbdulrahmanElkashef" /></p>
-<hr>
+<hr> my github stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanElkashef&show_icons=true&locale=en" alt="AbdulrahmanElkashef" /></p>
 
