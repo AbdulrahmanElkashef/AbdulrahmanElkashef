@@ -1,5 +1,7 @@
 <img align="center" width="100%" height="400px" src="https://github.com/AbdulrahmanElkashef/AbdulrahmanElkashef/blob/main/7ff5aa2204c532c80dcc425080aeb1be(1).jpg" alt="AbdulrahmanElkashef" />
 
+<p> I'm Abdulrahman, and I do Web developer, I have a deep interest in computer sciences, I love developing things and building websites, Junior Software engineer has experience in websites development using React framework and javascript programming language, And I have years of experience </p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abdulrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulrahman" height="30" width="40" /></a>
