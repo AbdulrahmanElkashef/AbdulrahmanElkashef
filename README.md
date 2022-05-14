@@ -23,7 +23,7 @@
 
 
    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulrahmanElkashef&theme=vision-friendly-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulrahmanElkashef&theme=radical )
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulrahmanElkashef&theme=radical )
 
