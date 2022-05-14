@@ -15,6 +15,8 @@
 <h2 align="center"> My GitHub Stats <h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdulrahmanElkashef&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulrahmanElkashef&show_icons=true&locale=en&layout=compact" alt="AbdulrahmanElkashef" /></p>
+
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanElkashef&show_icons=true&locale=en" alt="AbdulrahmanElkashef" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanElkashef&" alt="AbdulrahmanElkashef" /></p>
