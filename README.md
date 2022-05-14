@@ -17,6 +17,9 @@
   <div align-content"">  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulrahmanElkashef&radical"&show_icons=true&theme="radical" alt="AbdulrahmanElkashef"/></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanElkashef&langs_count=8)](https://github.com/AbdulrahmanElkashef/github-readme-stats)
+   
+   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdulrahmanElkashef&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
 
