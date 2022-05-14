@@ -2,7 +2,9 @@
 
 <p> I'm Abdulrahman, and I do Web developer, I have a deep interest in computer sciences, I love developing things and building websites, Junior Software engineer has experience in websites development using React framework and javascript programming language, And I have years of experience </p>
 
+<br>
 <h3 align="center">Connect with me:</h3>
+<hr>
 <p align="left">
 <a href="https://twitter.com/abdulrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulrahman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdularman-khalid-650972194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdularman-khalid-650972194/" height="30" width="40" /></a>
