@@ -14,7 +14,7 @@
 
 <h2 align="center"> My GitHub Stats <h2>
  
-  <div align="center">  
+  <div align-content"space-between">  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulrahmanElkashef&show_icons=true&locale=en&layout=compact" alt="AbdulrahmanElkashef" /></p>
 
 
