@@ -13,6 +13,10 @@
 <br>
 
 <h2 align="center"> My GitHub Stats <h2>
+  
+  <img src="https://camo.githubusercontent.com/d7b95719d98e569d48b2a93b18d1289a24e8e047b04b9cbeabdc065bdbef5f83/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d696e6146617269656433266c61796f75743d636f6d70616374267468656d653d6e6f637469735f6d696e696d7573" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinaFaried3&amp;layout=compact&amp;theme=noctis_minimus" style="max-width: 100%;">
+  
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulrahmanElkashef&show_icons=true&locale=en&layout=compact" alt="AbdulrahmanElkashef" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanElkashef&show_icons=true&locale=en" alt="AbdulrahmanElkashef" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanElkashef&" alt="AbdulrahmanElkashef" /></p>
