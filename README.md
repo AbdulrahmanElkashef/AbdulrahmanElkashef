@@ -12,6 +12,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanElkashef&show_icons=true&locale=en" alt="AbdulrahmanElkashef" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahman2012&" alt="AbdulrahmanElkashef" /></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanElkashef&" alt="AbdulrahmanElkashef" /></p>
 
