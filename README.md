@@ -19,3 +19,6 @@
 
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanElkashe&amp;layout=compact&amp;theme=noctis_minimus" alt="AbdulrahmanElkashef" /></p>
+  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulrahmanElkashef&theme=dark&show_icons=true)
+ 
