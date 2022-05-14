@@ -15,7 +15,7 @@
 <h2 align="center"> My GitHub Stats <h2>
  
   <div align-content"">  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulrahmanElkashef&radical"&show_icons=true&theme="radical" alt="AbdulrahmanElkashef"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulrahmanElkashef&radical"alt="AbdulrahmanElkashef"/></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanElkashef&langs_count=8)](https://github.com/AbdulrahmanElkashef/github-readme-stats &theme=radical)
    
