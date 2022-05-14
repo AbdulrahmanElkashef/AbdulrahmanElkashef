@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman</h1>
 <h3 align="center">Junior frontend developer from Egypt</h3>
-[![MasterHead](AbdulrahmanElkashef/AbdulrahmanElkashef/blob/main/7ff5aa2204c532c80dcc425080aeb1be.jpg)](https://github.com/AbdulrahmanElkashef)
 
+<img align="center" src="https://github.com/AbdulrahmanElkashef/AbdulrahmanElkashef/blob/main/7ff5aa2204c532c80dcc425080aeb1be.jpg" alt="AbdulrahmanElkashef" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
