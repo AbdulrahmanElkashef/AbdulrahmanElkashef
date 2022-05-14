@@ -14,12 +14,13 @@
 
 <h2 align="center"> My GitHub Stats <h2>
  
-  <div align-content"space-around	">  
+  <div align-content"">  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulrahmanElkashef&show_icons=true&locale=en&layout=compact" alt="AbdulrahmanElkashef" /></p>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdulrahmanElkashef&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
+</div>   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulrahmanElkashef&theme=dark&show_icons=true)
   
- </div> 
+
